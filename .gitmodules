@@ -1,5 +1,37 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/ambiorix-web/ambiorix-web.r-universe.dev
 	branch = HEAD
+[submodule "agris"]
+	path = agris
+	url = https://github.com/ambiorix-web/agris
+[submodule "alesia"]
+	path = alesia
+	url = https://github.com/ambiorix-web/alesia
+[submodule "ambiorix"]
+	path = ambiorix
+	url = https://github.com/ambiorix-web/ambiorix
+[submodule "druid"]
+	path = druid
+	url = https://github.com/ambiorix-web/druid
+[submodule "eburones"]
+	path = eburones
+	url = https://github.com/ambiorix-web/eburones
+[submodule "jader"]
+	path = jader
+	url = https://github.com/ambiorix-web/jader
+[submodule "pugger"]
+	path = pugger
+	url = https://github.com/ambiorix-web/pugger
+[submodule "scilis"]
+	path = scilis
+	url = https://github.com/ambiorix-web/scilis
+[submodule "signaculum"]
+	path = signaculum
+	url = https://github.com/ambiorix-web/signaculum
+[submodule "slighe"]
+	path = slighe
+	url = https://github.com/ambiorix-web/slighe
+[submodule "surf"]
+	path = surf
+	url = https://github.com/ambiorix-web/surf
